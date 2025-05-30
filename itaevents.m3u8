@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Women's Nations League - England vs Portugal" tvg-name="20:45 UEFA Women's Nations League : England vs Portugal - 30/05/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/England_national_football_team_logo_crest.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Women's Nations League - England vs Portugal" tvg-name="20:45 UEFA Women's Nations League : England vs Portugal - 30/05/25" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/England_national_football_team_logo_crest.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - Vila Nova vs Novorizontino" tvg-name="00:00 Brazil - Serie B : Vila Nova vs Novorizontino - 30/05/25" tvg-logo="https://logodetimes.com/times/vila-nova/logo-vila-nova.png" group-title="Calcio", ESPN Brazil
@@ -161,10 +161,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Andreozzi G./Arribage T." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Andreozzi G./Arribage T. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Arribage%20T..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 33
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arneodo R./Guinard M. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Arneodo R./Guinard M. vs Harrison C./King E. - 30/05/25" tvg-logo="https://imagecache.365scores.com/image/upload/r_max,z_0.65,f_png,w_34,h_34,c_thumb,q_auto:eco,dpr_2,g_face,d_Countries:Round:423.png/v1/Competitors/86116" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 13
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arneodo R./Guinard M. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Arneodo R./Guinard M. vs Harrison C./King E. - 30/05/25" tvg-logo="https://images.justwatch.com/icon/299063128/s166/romain-arneodo.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 13
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arneodo R./Guinard M. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Arneodo R./Guinard M. vs Harrison C./King E. - 30/05/25" tvg-logo="https://imagecache.365scores.com/image/upload/r_max,z_0.65,f_png,w_34,h_34,c_thumb,q_auto:eco,dpr_2,g_face,d_Countries:Round:423.png/v1/Competitors/86116" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 33
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Arneodo R./Guinard M. vs Harrison C./King E." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Arneodo R./Guinard M. vs Harrison C./King E. - 30/05/25" tvg-logo="https://images.justwatch.com/icon/299063128/s166/romain-arneodo.png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 33
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Diallo G./Fearnley J. vs Heliovaara H./Patten H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Diallo G./Fearnley J. vs Heliovaara H./Patten H. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 6
@@ -206,10 +206,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Haddad Maia B./Siegemund L. vs Aoyama S./Uchijima M." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Haddad Maia B./Siegemund L. vs Aoyama S./Uchijima M. - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Uchijima%20M..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 28
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sramkova R./Tomova V. vs Joint M./Kalashnikova O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Sramkova R./Tomova V. vs Joint M./Kalashnikova O. - 30/05/25" tvg-logo="https://cdn.sportstat.io/base/images/competitors/RHNCBkglwN2XPg1bSbzWGFYvKpvC5UuGMksEckIl.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 7
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sramkova R./Tomova V. vs Joint M./Kalashnikova O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Sramkova R./Tomova V. vs Joint M./Kalashnikova O. - 30/05/25" tvg-logo="https://jaroslava-sramkova.cz/wp-content/uploads/2017/11/24135416_1969591646390616_255836849_n.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 7
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sramkova R./Tomova V. vs Joint M./Kalashnikova O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Sramkova R./Tomova V. vs Joint M./Kalashnikova O. - 30/05/25" tvg-logo="https://cdn.sportstat.io/base/images/competitors/RHNCBkglwN2XPg1bSbzWGFYvKpvC5UuGMksEckIl.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 27
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Sramkova R./Tomova V. vs Joint M./Kalashnikova O." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Sramkova R./Tomova V. vs Joint M./Kalashnikova O. - 30/05/25" tvg-logo="https://jaroslava-sramkova.cz/wp-content/uploads/2017/11/24135416_1969591646390616_255836849_n.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 27
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Wang Xin./Zheng S. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Wang Xin./Zheng S. vs Eikeri U./Hozumi E. - 30/05/25" tvg-logo="https://isaham.sgp1.digitaloceanspaces.com/stock_logo/WANGZNG.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 9
@@ -584,16 +584,16 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Super League - Hapoel Holon vs Maccabi Tel Aviv" tvg-name="14:30 Super League : Hapoel Holon vs Maccabi Tel Aviv - 30/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Hapoel%20Holon_vs_Maccabi%20Tel%20Aviv.png" group-title="Basket", Sport 5 Israel
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://ilcalcio.net/assets/95/6e/956e3f0a7f8ff52dd9c1d8128dd6e97c.png" group-title="Basket", beIN SPORTS 5 Turkey
+#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://files.tips.gg/static/image/teams/mersin-bsb-basketball.png" group-title="Basket", beIN SPORTS 5 Turkey
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://ilcalcio.net/assets/95/6e/956e3f0a7f8ff52dd9c1d8128dd6e97c.png" group-title="Basket", Arena Sport 3 Croatia
+#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://files.tips.gg/static/image/teams/mersin-bsb-basketball.png" group-title="Basket", Arena Sport 3 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-434.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://ilcalcio.net/assets/95/6e/956e3f0a7f8ff52dd9c1d8128dd6e97c.png" group-title="Basket", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://files.tips.gg/static/image/teams/mersin-bsb-basketball.png" group-title="Basket", Arena Premium 3 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://ilcalcio.net/assets/95/6e/956e3f0a7f8ff52dd9c1d8128dd6e97c.png" group-title="Basket", Sport 1 Israel
+#EXTINF:-1 tvg-id="Süper Ligi - Mersin BSB vs Anadolu Efes" tvg-name="17:00 Süper Ligi : Mersin BSB vs Anadolu Efes - 30/05/25" tvg-logo="https://files.tips.gg/static/image/teams/mersin-bsb-basketball.png" group-title="Basket", Sport 1 Israel
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Tecnyconta Zaragoza vs Real Madrid" tvg-name="18:30 ACB : Tecnyconta Zaragoza vs Real Madrid - 30/05/25" tvg-logo="https://cdn.movistarestudiantes.com/wp-content/uploads/2017/04/logo-tecnyconta-zaragoza.png" group-title="Basket", Movistar Deportes Spain
