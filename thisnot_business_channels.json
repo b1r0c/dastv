@@ -4,7 +4,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP BARCELLONA - SPAGNA",
-      "date": "VENERDI 30 MAGGIO",
+      "date": "SABATO 31 MAGGIO",
       "event": "15:00 Gara",
       "channel": "Sky Sport",
       "language": "it",
@@ -16,7 +16,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP BARCELLONA - SPAGNA",
-      "date": "VENERDI 30 MAGGIO",
+      "date": "SABATO 31 MAGGIO",
       "event": "15:00 Gara",
       "channel": "TSN",
       "language": "it",
@@ -93,6 +93,18 @@
       "channel": "Ziggo",
       "language": "de",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
+    }
+  },
+  "https://thisnot.business/player.php?id=RTE2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
+      "date": "LUNEDI 2 GIUGNO (Andata)",
+      "event": "21:00 Paris Saint-Germain - Inter",
+      "channel": "RTE",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=RTE2"
     }
   },
   "https://thisnot.business/player.php?id=SportCalcio_IT": {
@@ -196,7 +208,7 @@
     "info": {
       "category": "BASKET",
       "title": "LBA SERIE A, SEMIFINALI - ITALIA",
-      "date": "VENERDI 30 MAGGIO",
+      "date": "SABATO 31 MAGGIO",
       "event": "02:30 Oklahoma City Thunder v Pacers/Knicks",
       "channel": "Sky Sport",
       "language": "it",
