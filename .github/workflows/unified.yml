@@ -2,13 +2,12 @@ name: 8 Update itaEvents
 
 on:
   schedule:
-    # ← ripristinato il cronjob esistente (esempio: ogni giorno alle 02:00 UTC)
     - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write    # Per eseguire il push dei file modificati
-  actions: write     # Per gestire i workflow
+  contents: write
+  actions: write
   pull-requests: write
 
 jobs:
@@ -29,13 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          # Aggiorna pip
           python -m pip install --upgrade pip
-
-          # Dipendenze base per tutti gli script
           python -m pip install requests pytz beautifulsoup4 bs4 lxml rapidfuzz python-Levenshtein python-dateutil python-dotenv webdriver-manager pillow chardet
-
-          # Installa Playwright e scarica il browser Chromium
           python -m pip install playwright
           python -m playwright install chromium
 
@@ -66,25 +60,18 @@ jobs:
             sportstreaming_playlist.m3u8 \
             sportzone.m3u8
 
-      # ────────────────────────────────────────────────────────────────────────────
-      # NUOVI PASSI: ordina_listone.py (deduplica e ordina listone.m3u8)
       - name: Resa eseguibile ordina_listone.py
         run: chmod +x ordina_listone.py
 
       - name: Ordina e deduplica listone.m3u8
         run: |
           ./ordina_listone.py
-      # ────────────────────────────────────────────────────────────────────────────
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Aggiungi tutte le modifiche (incl. listone_ordinato.m3u8)
           git add .
-
-          # Se ci sono modifiche, fai commit e push
           if [[ -n $(git status --porcelain) ]]; then
             git commit -m "Update Itaevents $(date +%H:%M)"
             git pull --rebase origin main
