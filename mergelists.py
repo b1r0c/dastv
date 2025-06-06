@@ -4,7 +4,7 @@ import requests  # Aggiungiamo questa libreria per gestire le richieste HTTP
 
 def merge_m3u8_lists(input_files, output_file="listone.m3u8", remote_urls=None):
     """
-    Unisce più file M3U8 in un singolo file.
+    Unisce più file M3U8 in un singolo file, filtrando i contenuti PlutoTV.
     Mantiene la prima riga #EXTM3U solo dal primo file di input.
 
     Args:
@@ -48,10 +48,14 @@ def merge_m3u8_lists(input_files, output_file="listone.m3u8", remote_urls=None):
                             # Per i file successivi, salta la prima riga se è una direttiva #EXTM3U
                             # Altrimenti, scrivi la prima riga se non inizia con #EXTM3U
                             if not first_line.strip().startswith('#EXTM3U'):
-                                outfile.write(first_line)
+                                # Filtra righe PlutoTV
+                                if "pluto" not in first_line.lower():
+                                    outfile.write(first_line)
 
-                        # Scrivi il resto delle righe
+                        # Scrivi il resto delle righe, saltando quelle contenenti "pluto"
                         for line in infile:
+                            if "pluto" in line.lower():
+                                continue
                             outfile.write(line)
 
                     print(f"Processato file locale: {input_file}")
@@ -74,14 +78,17 @@ def merge_m3u8_lists(input_files, output_file="listone.m3u8", remote_urls=None):
                         # Salta la prima riga se è #EXTM3U e non è il primo file
                         if lines and lines[0].strip().startswith('#EXTM3U'):
                             if first_file:
-                                outfile.write(lines[0] + '\n')
+                                if "pluto" not in lines[0].lower():
+                                    outfile.write(lines[0] + '\n')
                                 first_file = False
                                 lines = lines[1:]
                             else:
                                 lines = lines[1:]
 
-                        # Scrivi il resto delle righe
+                        # Scrivi il resto delle righe, saltando quelle contenenti "pluto"
                         for line in lines:
+                            if "pluto" in line.lower():
+                                continue
                             outfile.write(line + '\n')
 
                         print(f"Processato URL remoto: {url}")
@@ -109,8 +116,8 @@ if __name__ == "__main__":
             input_files.append(sys.argv[i])
         i += 1
 
-    # Se non ci sono URL remoti specificati, aggiungi l'URL di Pluto TV
-    if not remote_urls:
-        remote_urls = ["https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"]
+    # Rimuoviamo l'URL di PlutoTV di default
+    # if not remote_urls:
+    #     remote_urls = ["https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"]
 
     merge_m3u8_lists(input_files, remote_urls=remote_urls)
