@@ -2,10 +2,6 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Francia', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
   Dettagli: Categoria='CALCIO', Evento='20:45 Diretta Gol', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
@@ -19,30 +15,6 @@ Pagina Evento: https://thisnot.business/player.php?id=Rai1x
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
   Dettagli: Categoria='CALCIO', Evento='21:15 Ternana - Pescara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Francia', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='20:45 Diretta Gol', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1x
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:15 Ternana - Pescara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Francia', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
