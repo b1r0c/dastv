@@ -26,25 +26,35 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # Se c’è un requirements.txt, si può installare qui:
+          # Se c’è un requirements.txt, installalo qui:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+          # ─────────────────────────────────────────────────────────────
+          # Aggiungiamo Playwright perché extract_schedule.py lo richiede
+          pip install playwright
+          playwright install
+          # ─────────────────────────────────────────────────────────────
 
       # ───────────────────────────────────────────────────────────────────────────────
       # STEP 1..7: (omessi per brevità) – esecuzione di tutti gli script preliminari
-      # (extract_schedule.py, vavoo.py, daddy.py, calcio.py, sport.py, thisnot.py, skystreaming.py, etc.)
+      # (vavoo.py, daddy.py, calcio.py, sport.py, thisnot.py, skystreaming.py, ecc.)
       # In ciascuno di questi passi si generano i singoli *.m3u8
       # ───────────────────────────────────────────────────────────────────────────────
 
-      - name: "STEP 8: Run extract_schedule"
+      - name: STEP 1: Run extract_schedule
         run: |
           python extract_schedule.py
 
-      - name: "STEP 8: Run itaevents scripts"
+      - name: STEP 2: Run itaevents scripts
         run: |
           python itaevents.py
           python fullita.py
 
-      - name: "STEP 8: Run mergelists"
+      - name: STEP 3: Run mpdenv.py
+        run: |
+          python mpdenv.py
+
+      - name: STEP 4: Run mergelists
         run: |
           python mergelists.py \
             channels_italy.m3u8 \
@@ -66,17 +76,3 @@ jobs:
         run: |
           ./ordina_listone.py
       # ───────────────────────────────────────────────────────────────────────────────
-
-      - name: "FINAL: Check for changes & commit"
-        run: |
-          # Verifico se ci sono modifiche (listone.m3u8 o listone_ordinato.m3u8)
-          if [[ -n $(git status --porcelain) ]]; then
-            git config --local user.name "github-actions[bot]"
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git commit -am "Unified Update: All workflows completed sequentially $(date +%H:%M)"
-            git pull --rebase origin main
-            git push
-            echo "=== FINAL: Changes pushed successfully ==="
-          else
-            echo "=== FINAL: No changes to commit ==="
-          fi
