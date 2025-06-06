@@ -398,7 +398,7 @@ https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/emb
 #EXTINF:-1 tvg-id="Moto 2 - Greek Grand Prix of Spain" tvg-name="14:00 Moto 2 : Greek Grand Prix of Spain - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-271.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Sal's NBL: Tauranga Whai vs Nelson Giants" tvg-name="09:30 NBL : Sal's NBL: Tauranga Whai vs Nelson Giants - 06/06/25" tvg-logo="https://nz.rs-cdn.com/images/nwsev-9sqfl/page/a4bea6a057b36af65d4484ba2af8bd92__1a98/w1200.png" group-title="Basket", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="NBL - Sal's NBL: Tauranga Whai vs Nelson Giants" tvg-name="09:30 NBL : Sal's NBL: Tauranga Whai vs Nelson Giants - 06/06/25" tvg-logo="https://nz.rs-cdn.com/images/nwsev-9sqfl/page/d7f413c347b4ea4dd7ee0c4b1919074d__f1c6/w1200.png" group-title="Basket", Sky Sport 4 NZ
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Africa League - Kriol Star vs. FUS Rabat" tvg-name="16:00 Africa League : Kriol Star vs. FUS Rabat - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Kriol%20Star_vs_FUS%20Rabat.png" group-title="Basket", NBA TV USA
@@ -593,10 +593,10 @@ https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/emb
 #EXTINF:-1 tvg-id="Golden League - Finland vs. Slovakia" tvg-name="17:00 Golden League : Finland vs. Slovakia - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Finland_vs_Slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-23.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", ERT 2 Greece
+#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Pallavolo", ERT 2 Greece
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", Sport TV4 Portugal
+#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Pallavolo", Sport TV4 Portugal
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749208595_estonia-x-israel.png" group-title="Pallavolo", Arena Sport 3 Croatia
