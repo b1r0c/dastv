@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="World Cup Qualifying - Norway vs Italy" tvg-name="20:45 World Cup Qualifying : Norway vs Italy - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Norway_vs_Italy.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="World Cup Qualifying - Norway vs Italy" tvg-name="20:45 World Cup Qualifying : Norway vs Italy - 06/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749208413_norway-x-italy.png" group-title="Calcio", SuperSport Premier League
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Musetti L. vs Alcaraz C." tvg-name="14:30 WTA - ROLAND GARROS : Musetti L. vs Alcaraz C. - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Musetti%20L._vs_Alcaraz%20C..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -407,13 +407,13 @@ https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/emb
 #EXTINF:-1 tvg-id="LKL - Lietuvos Rytas at Lietkabelis" tvg-name="17:50 LKL : Lietuvos Rytas at Lietkabelis - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport klub 1 Croatia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Women's test matches - Germany vs Türkiye" tvg-name="18:30 Women's test matches : Germany vs Türkiye - 06/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749038252_germany-x-portugal.png" group-title="Basket", Magenta Sports
+#EXTINF:-1 tvg-id="Women's test matches - Germany vs Türkiye" tvg-name="18:30 Women's test matches : Germany vs Türkiye - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Germany_vs_T%C3%BCrkiye.png" group-title="Basket", Magenta Sports
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB LIGA - Zenit vs CSKA" tvg-name="18:30 VTB LIGA : Zenit vs CSKA - 06/06/25" tvg-logo="http://lofrev.net/wp-content/photos/2014/08/FC-Zenit-Logo.png" group-title="Basket", Match Igra Russia
+#EXTINF:-1 tvg-id="VTB LIGA - Zenit vs CSKA" tvg-name="18:30 VTB LIGA : Zenit vs CSKA - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Zenit_vs_CSKA.png" group-title="Basket", Match Igra Russia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB LIGA - Zenit vs CSKA" tvg-name="18:30 VTB LIGA : Zenit vs CSKA - 06/06/25" tvg-logo="http://lofrev.net/wp-content/photos/2014/08/FC-Zenit-Logo.png" group-title="Basket", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="VTB LIGA - Zenit vs CSKA" tvg-name="18:30 VTB LIGA : Zenit vs CSKA - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Zenit_vs_CSKA.png" group-title="Basket", Arena 2 Premium Serbia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - FC Barcelona vs. CB Unicaja Malaga" tvg-name="19:00 ACB : FC Barcelona vs. CB Unicaja Malaga - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/FC%20Barcelona_vs_CB%20Unicaja%20Malaga.png" group-title="Basket", Movistar Deportes Spain
@@ -563,28 +563,28 @@ https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/emb
 #EXTINF:-1 tvg-id="UCI Cross-country Short Track World Cup | Women Elite | Leogang - UCI Cross-country Short Track World Cup | Women Elite | Leogang" tvg-name="17:00 UCI Cross-country Short Track World Cup | Women Elite | Leogang - 06/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 2 SE
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/19855/logo_1678290630.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/France%20W_vs_Belgium%20W.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/19855/logo_1678290630.png" group-title="Pallavolo", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/France%20W_vs_Belgium%20W.png" group-title="Pallavolo", Arena Premium 3 Serbia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/19855/logo_1678290630.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - France W vs Belgium W" tvg-name="10:00 Nations League Women : France W vs Belgium W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/France%20W_vs_Belgium%20W.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkey%20W_vs_Thailand%20W.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Pallavolo", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkey%20W_vs_Thailand%20W.png" group-title="Pallavolo", Arena Premium 3 Serbia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkey%20W_vs_Thailand%20W.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Pallavolo", MAX Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkey%20W_vs_Thailand%20W.png" group-title="Pallavolo", MAX Sport 3 Bulgaria
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Pallavolo", SporTV2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Thailand W" tvg-name="13:30 Nations League Women : Turkey W vs Thailand W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Turkey%20W_vs_Thailand%20W.png" group-title="Pallavolo", SporTV2 Brazil
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League W - Hungary W vs Romania W" tvg-name="15:30 Golden League W : Hungary W vs Romania W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Hungary%20W_vs_Romania%20W.png" group-title="Pallavolo", M4 Sport Hungary
@@ -599,10 +599,10 @@ https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/emb
 #EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", Sport TV4 Portugal
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/341/original/circle-flag-of-croatia-free-png.png" group-title="Pallavolo", Arena Sport 3 Croatia
+#EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749208595_estonia-x-israel.png" group-title="Pallavolo", Arena Sport 3 Croatia
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-434.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/341/original/circle-flag-of-croatia-free-png.png" group-title="Pallavolo", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749208595_estonia-x-israel.png" group-title="Pallavolo", Sport 5 Plus Israel
 https://mfp.formeweb.cloud/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League W - Croatia W vs Spain W" tvg-name="19:00 Golden League W : Croatia W vs Spain W - 06/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Croatia%20W_vs_Spain%20W.png" group-title="Pallavolo", Arena Sport 2 Croatia
