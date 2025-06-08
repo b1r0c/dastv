@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/EIN3.DE.D-4cd10b0d.png?t=1722162156" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381543_germany-x-france.png" group-title="Calcio", TF1 France
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/EIN3.DE.D-4cd10b0d.png?t=1722162156" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League Third Place - Germany vs France" tvg-name="15:00 UEFA Nations League Third Place : Germany vs France - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381543_germany-x-france.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Portugal_vs_Spain.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381360_portugal-x-spain.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Portugal_vs_Spain.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League Final - Portugal vs Spain" tvg-name="21:00 UEFA Nations League Final : Portugal vs Spain - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749381360_portugal-x-spain.png" group-title="Calcio", TF1 France
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Forge vs HFX Wanderers" tvg-name="21:30 Canadian Premier League : Forge vs HFX Wanderers - 08/06/25" tvg-logo="https://companieslogo.com/img/orig/BHARATFORG.NS-ed04c2f6.png?t=1613407724" group-title="Calcio", Fox Soccer Plus
@@ -725,16 +725,16 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Turkiye" tvg-name="13:30 Nations League Women : China vs. Turkiye - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/China_vs_Turkiye.png" group-title="Pallavolo", Max Sport 3 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284079_greece-x-slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://seeklogo.com/images/H/hockey-slovakia-2019-logo-B7D2818A59-seeklogo.com.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-24.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749284079_greece-x-slovakia.png" group-title="Pallavolo", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs FYR Macedonia" tvg-name="15:00 Golden League : Slovakia vs FYR Macedonia - 08/06/25" tvg-logo="https://seeklogo.com/images/H/hockey-slovakia-2019-logo-B7D2818A59-seeklogo.com.png" group-title="Pallavolo", Arena Sport 2 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Brazil_vs_Italy.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://seeklogo.com/images/B/brazil-logo-EB6CDF0C32-seeklogo.com.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Brazil_vs_Italy.png" group-title="Pallavolo", Sportv2 Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Brazil vs. Italy" tvg-name="15:00 Nations League Women : Brazil vs. Italy - 08/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Brazil_vs_Italy.png" group-title="Pallavolo", RTVS Sport Slovakia
