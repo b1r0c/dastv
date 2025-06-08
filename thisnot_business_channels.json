@@ -1,16 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SportMotoGP_IT": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984",
-    "info": {
-      "category": "MOTOMONDIALE",
-      "title": "GP ARAGON - SPAGNA",
-      "date": "DOMENICA 8 GIUGNO",
-      "event": "14:00 MotoGP - Gara",
-      "channel": "Sky Sport",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=SportMotoGP_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=Eurosport1RG": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
     "info": {
@@ -19,7 +7,7 @@
       "date": "DOMENICA 8 GIUGNO",
       "event": "15:00 Sinner v Alcaraz",
       "channel": "Eurosport",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Eurosport1RG"
     }
   },
