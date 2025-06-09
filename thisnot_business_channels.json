@@ -1,22 +1,10 @@
 {
-  "https://thisnot.business/player.php?id=Eurosport1RG": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS, FINALE SINGOLO MASCHILE - FRANCIA",
-      "date": "DOMENICA 8 GIUGNO",
-      "event": "15:00 Sinner v Alcaraz",
-      "channel": "Eurosport",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=Eurosport1RG"
-    }
-  },
   "https://thisnot.business/player.php?id=SportCalcio_IT": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665",
     "info": {
       "category": "CALCIO",
       "title": "QUALIFICAZIONI MONDIALI 2026",
-      "date": "DOMENICA 8 GIUGNO",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Diretta Gol",
       "channel": "Sky Sport",
       "language": "it",
@@ -28,7 +16,7 @@
     "info": {
       "category": "CALCIO",
       "title": "QUALIFICAZIONI MONDIALI 2026",
-      "date": "DOMENICA 8 GIUGNO",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Italia - Moldavia",
       "channel": "Rai",
       "language": "it",
@@ -40,7 +28,7 @@
     "info": {
       "category": "CALCIO",
       "title": "QUALIFICAZIONI MONDIALI 2026",
-      "date": "DOMENICA 8 GIUGNO",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Estonia - Norvegia",
       "channel": "Sky Sport",
       "language": "it",
@@ -52,7 +40,7 @@
     "info": {
       "category": "CALCIO",
       "title": "QUALIFICAZIONI MONDIALI 2026",
-      "date": "DOMENICA 8 GIUGNO",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Belgio - Galles",
       "channel": "Ziggo Sport",
       "language": "it",
@@ -64,7 +52,7 @@
     "info": {
       "category": "CALCIO",
       "title": "QUALIFICAZIONI MONDIALI 2026",
-      "date": "DOMENICA 8 GIUGNO",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Croazia - Repubblica Ceca",
       "channel": "Arena Sport",
       "language": "nl",
