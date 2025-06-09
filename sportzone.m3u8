@@ -12,13 +12,24 @@
 
 
 
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6842a02c9d1fb.jpg" tvg-name="Calcio",Germania vs Francia (SZ)
+
+
+
+
+
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68414eb21a21e.jpg" tvg-name="Calcio",Diretta Gol vs Qualificazioni Mondiali (SZ)
 https://hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6842a05082b3a.png" tvg-name="Calcio",Portogallo vs Spagna (SZ)
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6847048163e52.png" tvg-name="Calcio",Italia vs Moldavia (SZ)
+https://hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/684704d1d2ac2.jpg" tvg-name="Calcio",Estonia vs Norvegia (SZ)
+https://hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68470460a0ae9.jpg" tvg-name="Calcio",Liechtenstein vs Scozia (SZ)
 https://hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6841503eda946.png" tvg-name="Calcio",Georgia vs Capo Verde (SZ)
-https://hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68414e3332727.jpg" tvg-name="MotoGP",Warm Up vs Aragón (Spagna) (SZ)
-https://hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68414e4c20228.jpg" tvg-name="MotoGP",Gara 2 vs Aragón (Spagna) (SZ)
-https://hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6683b5df0dd12.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
+https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6683b5fc5db3b.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
+https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
