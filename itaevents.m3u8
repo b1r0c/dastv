@@ -47,13 +47,13 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Tomova V. vs Mertens E." tvg-name="12:30 WTA - HERTOGENBOSCH : Tomova V. vs Mertens E. - 09/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Tomova%20V._vs_Mertens%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Vrancken Peeters A. vs Sun L." tvg-name="14:30 WTA - HERTOGENBOSCH : Vrancken Peeters A. vs Sun L. - 09/06/25" tvg-logo="https://www.protipster.it/uploads/teams/875503.png" group-title="Wta - Hertogenbosch", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Vrancken Peeters A. vs Sun L." tvg-name="14:30 WTA - HERTOGENBOSCH : Vrancken Peeters A. vs Sun L. - 09/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Vrancken%20Peeters%20A._vs_Sun%20L..png" group-title="Wta - Hertogenbosch", Tennis Stream 5
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Siniakova K. vs Blinkova A." tvg-name="16:00 WTA - HERTOGENBOSCH : Siniakova K. vs Blinkova A. - 09/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Siniakova%20K._vs_Blinkova%20A..png" group-title="Wta - Hertogenbosch", Tennis Stream 5
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Fernandez L. vs Maria T." tvg-name="13:00 WTA - LONDON : Fernandez L. vs Maria T. - 09/06/25" tvg-logo="https://fernandezrealtygroupllc.managebuilding.com/Resident/api/public/files/download?fileName=036c1350bb9741f79fd01494d96e3954.png" group-title="Wta - London", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA - LONDON - Fernandez L. vs Maria T." tvg-name="13:00 WTA - LONDON : Fernandez L. vs Maria T. - 09/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Fernandez%20L._vs_Maria%20T..png" group-title="Wta - London", Tennis Stream 2
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - LONDON - Kvitova P. vs Haddad Maia B." tvg-name="13:00 WTA - LONDON : Kvitova P. vs Haddad Maia B. - 09/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Kvitova%20P._vs_Haddad%20Maia%20B..png" group-title="Wta - London", Tennis Stream 1
@@ -158,10 +158,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Men's basketball - ORLEN Basket League" tvg-name="20:30 Men's basketball: ORLEN Basket League - 09/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 1 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega Basket Serie A - Virtoys Mpolonia vs Armani Milano" tvg-name="20:45 Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano - 09/06/25" tvg-logo="https://png.pngtree.com/png-vector/20240308/ourmid/pngtree-initial-fl-letter-logo-with-creative-modern-business-typography-vector-png-image_11905080.png" group-title="Basket", EuroSport 2 Italy
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Virtoys Mpolonia vs Armani Milano" tvg-name="20:45 Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano - 09/06/25" tvg-logo="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858" group-title="Basket", EuroSport 2 Italy
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lega Basket Serie A - Virtoys Mpolonia vs Armani Milano" tvg-name="20:45 Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano - 09/06/25" tvg-logo="https://png.pngtree.com/png-vector/20240308/ourmid/pngtree-initial-fl-letter-logo-with-creative-modern-business-typography-vector-png-image_11905080.png" group-title="Basket", Cosmote Sport 8 Greece
+#EXTINF:-1 tvg-id="Lega Basket Serie A - Virtoys Mpolonia vs Armani Milano" tvg-name="20:45 Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano - 09/06/25" tvg-logo="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858" group-title="Basket", Cosmote Sport 8 Greece
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Golden State Valkyries W - 09/06/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/los-angeles-sparks-logo.png" group-title="Basket", Spectrum SportsNet USA
