@@ -50,7 +50,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="WTA - LONDON - Kartal S. vs Anisimova A." tvg-name="15:30 WTA - LONDON : Kartal S. vs Anisimova A. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Kartal%20S._vs_Anisimova%20A..png" group-title="Wta - London", Tennis Stream 1
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Zakharova A. vs Keys M." tvg-name="17:00 WTA - LONDON : Zakharova A. vs Keys M. - 11/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202401/18/anastasia-zakharova.png?itok=xpPXngIh" group-title="Wta - London", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - LONDON - Zakharova A. vs Keys M." tvg-name="17:00 WTA - LONDON : Zakharova A. vs Keys M. - 11/06/25" tvg-logo="https://i0.wp.com/www.informadanza.com/wp-content/uploads/2015/11/Logo-tondo.png?w=150" group-title="Wta - London", Tennis Stream 1
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 11/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
@@ -362,7 +362,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - Brazil vs. Iran" tvg-name="22:30 Nations League : Brazil vs. Iran - 11/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs. Iran" tvg-name="22:30 Nations League : Brazil vs. Iran - 11/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", SporTV2 Btazil
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Iran" tvg-name="22:30 Nations League : Brazil vs. Iran - 11/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", SporTV2 Btazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Brazil vs. Iran" tvg-name="22:30 Nations League : Brazil vs. Iran - 11/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sport Klub 3 Croatia
@@ -388,4 +388,310 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 
 #EXTINF:-1 tvg-id="Nations League - Slovenia vs. Cuba" tvg-name="02:00 Nations League : Slovenia vs. Cuba - 11/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Slovenia_vs_Cuba.png" group-title="Pallavolo", Sport Klub 2 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Popyrin%20A._vs_Bergs%20Z..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Mannarino A." tvg-name="15:00 ATP - HERTOGENBOSCH : Medvedev D. vs Mannarino A. - 12/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/21/medvedev_d.png?itok=dq3kQh_Y" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/ee.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Michelsen A. vs Engel J." tvg-name="11:00 ATP - STUTTGART : Michelsen A. vs Engel J. - 12/06/25" tvg-logo="https://www.langantiques.com/university/wp-content/uploads/2019/08/a_michelsen.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="12:30 ATP - STUTTGART : Mpetshi Perricard G. vs Auger-Aliassime F. - 12/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/mpetshi-perricard-2022-head.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Moutet C." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Moutet C. - 12/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Tien L. vs Nakashima B." tvg-name="17:00 ATP - STUTTGART : Tien L. vs Nakashima B. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Tien%20L._vs_Nakashima%20B..png" group-title="Atp - Stuttgart", Tennis Stream 8
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Lamens S. vs Li A." tvg-name="11:00 WTA - HERTOGENBOSCH : Lamens S. vs Li A. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Lamens%20S._vs_Li%20A..png" group-title="Wta - Hertogenbosch", Tennis Stream 5
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Branstine C. vs Ruse G." tvg-name="11:00 WTA - HERTOGENBOSCH : Branstine C. vs Ruse G. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Branstine%20C._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Sakkari M. vs Mertens E." tvg-name="13:00 WTA - HERTOGENBOSCH : Sakkari M. vs Mertens E. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Sakkari%20M._vs_Mertens%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Andreescu B. vs Sun L." tvg-name="14:30 WTA - HERTOGENBOSCH : Andreescu B. vs Sun L. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Andreescu%20B._vs_Sun%20L..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Birrell K. vs Yuan Y." tvg-name="16:00 WTA - HERTOGENBOSCH : Birrell K. vs Yuan Y. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Birrell%20K._vs_Yuan%20Y..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Boulter K." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Boulter K. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Shnaider%20D._vs_Boulter%20K..png" group-title="Wta - London", Tennis Stream 1
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Watson H. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Watson H. vs Rybakina E. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Watson%20H._vs_Rybakina%20E..png" group-title="Wta - London", Tennis Stream 1
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Raducanu E. vs Sramkova R." tvg-name="16:00 WTA - LONDON : Raducanu E. vs Sramkova R. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Raducanu%20E._vs_Sramkova%20R..png" group-title="Wta - London", Tennis Stream 1
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Kessler M." tvg-name="17:30 WTA - LONDON : Zheng Q. vs Kessler M. - 12/06/25" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Zheng-designstyle-popstar-m.png" group-title="Wta - London", Tennis Stream 1
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-357.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 2 France
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-117.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7 HD
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-884.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 7 Cyprus
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-917.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-383.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3" tvg-name="14:30 FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Italy
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole - FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole" tvg-name="19:45 FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 1 Italy
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 - FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4" tvg-name="22:45 FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 1 Italy
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Manawatu Jets" tvg-name="08:00 NBL : Auckland Tuatara vs Manawatu Jets - 12/06/25" tvg-logo="https://www.thesportsdb.com/images/media/team/badge/2ekavo1637685330.png" group-title="Basket", Sky Sport 3 NZ
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lithuanian League - Zalgiris vs Rytas" tvg-name="17:50 Lithuanian League : Zalgiris vs Rytas - 12/06/25" tvg-logo="https://seeklogo.com/images/V/vmfd-zalgiris-current-logo-355FF41F90-seeklogo.com.png" group-title="Basket", Sport Klub 3 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Toyrnoya Vaso Mpeskaki - Lithoyandia vs Greece" tvg-name="18:00 Toyrnoya Vaso Mpeskaki : Lithoyandia vs Greece - 12/06/25" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2022/02/emblem_of_lithuania-freelogovectors.net_.png" group-title="Basket", ERT 2 Greece
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes vs Besiktas" tvg-name="19:30 Süper Ligi : Anadolu Efes vs Besiktas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Anadolu%20Efes_vs_Besiktas.png" group-title="Basket", Bein Sport 5 Turkey
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes vs Besiktas" tvg-name="19:30 Süper Ligi : Anadolu Efes vs Besiktas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Anadolu%20Efes_vs_Besiktas.png" group-title="Basket", Cosmote Sport 9 Greece
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-630.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes vs Besiktas" tvg-name="19:30 Süper Ligi : Anadolu Efes vs Besiktas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Anadolu%20Efes_vs_Besiktas.png" group-title="Basket", Arena Sport 2 Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes vs Besiktas" tvg-name="19:30 Süper Ligi : Anadolu Efes vs Besiktas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Anadolu%20Efes_vs_Besiktas.png" group-title="Basket", Arena Sport 2 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes vs Besiktas" tvg-name="19:30 Süper Ligi : Anadolu Efes vs Besiktas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Anadolu%20Efes_vs_Besiktas.png" group-title="Basket", Sport 4 Israel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Heidelberg" tvg-name="18:30 GERMAN LEAGUE : Bayern vs Heidelberg - 12/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", DYN DE
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Heidelberg" tvg-name="18:30 GERMAN LEAGUE : Bayern vs Heidelberg - 12/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", Arena 2 Premium Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Heidelberg" tvg-name="18:30 GERMAN LEAGUE : Bayern vs Heidelberg - 12/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", Sportklub 1 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5) : Paris vs Bourg" tvg-name="19:00 French League: Playoffs - 1/2 Final (G5) : Paris vs Bourg - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/2%20Final%20%28G5%29%20%3A%20Paris_vs_Bourg.png" group-title="Basket", DAZN France
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5) : Paris vs Bourg" tvg-name="19:00 French League: Playoffs - 1/2 Final (G5) : Paris vs Bourg - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/2%20Final%20%28G5%29%20%3A%20Paris_vs_Bourg.png" group-title="Basket", Sport Klub 4 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Super League - Hapoel M. Jerusalem vs Maccabi Tel Aviv" tvg-name="19:50 Super League : Hapoel M. Jerusalem vs Maccabi Tel Aviv - 12/06/25" tvg-logo="https://seeklogo.com/images/H/hapoel-jerusalem-logo-0337FC1D23-seeklogo.com.png" group-title="Basket", Sport Klub 3 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Super League - Hapoel M. Jerusalem vs Maccabi Tel Aviv" tvg-name="19:50 Super League : Hapoel M. Jerusalem vs Maccabi Tel Aviv - 12/06/25" tvg-logo="https://seeklogo.com/images/H/hapoel-jerusalem-logo-0337FC1D23-seeklogo.com.png" group-title="Basket", Sport 5 Israel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ABA League - Partizan vs Buducnost" tvg-name="20:00 ABA League : Partizan vs Buducnost - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Partizan_vs_Buducnost.png" group-title="Basket", Arena 1 Premium Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ABA League - Partizan vs Buducnost" tvg-name="20:00 ABA League : Partizan vs Buducnost - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Partizan_vs_Buducnost.png" group-title="Basket", Arena Sport 1 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Eurosport 2 IT
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Arena 3 Premium Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Cosmote Sport 8 Greece
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Polsat Sport 3 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Sport 3 Israel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://boutiquesdelyon.com/web/Sites/asvelbasketasso.com/uploads/Saison 2020-2021/logo_asso_asvel VF-HOMME VECT 2020.png" group-title="Basket", DAZN1 France
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://boutiquesdelyon.com/web/Sites/asvelbasketasso.com/uploads/Saison 2020-2021/logo_asso_asvel VF-HOMME VECT 2020.png" group-title="Basket", Sport Klub 4 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", M+ #Vamos Spain
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Movistar Deportes Spain
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", DAZN Eleven 2 Portugal
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-456.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Arena 2 Premium Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Cosmote Sport 7 Greece
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Canal+ Sport Poland HD
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Sportklub 1 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Sport 4 Israel
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="NBB - Franca vs Minas" tvg-name="23:45 NBB : Franca vs Minas - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Franca_vs_Minas.png" group-title="Basket", ESPN2 BR
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 1 Women | Gstaad (96.4km) - Tour of Switzerland | Stage 1 Women | Gstaad (96.4km)" tvg-name="14:45 Tour of Switzerland | Stage 1 Women | Gstaad (96.4km) - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km)" tvg-name="15:30 Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", France 3
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km)" tvg-name="15:30 Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 3 UK
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km)" tvg-name="15:30 Criterium du Dauphine | Stage 5 Men | Saint Prest – Macon (183km) - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Sky Sport 1 NZ
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - China vs Serbia" tvg-name="11:00 Nations League : China vs Serbia - 12/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/507/original/circle-flag-of-china-free-png.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - China vs Serbia" tvg-name="11:00 Nations League : China vs Serbia - 12/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/507/original/circle-flag-of-china-free-png.png" group-title="Pallavolo", Arena Premium 1 Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - China vs Serbia" tvg-name="11:00 Nations League : China vs Serbia - 12/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/507/original/circle-flag-of-china-free-png.png" group-title="Pallavolo", Sportklub 1 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - China vs Serbia" tvg-name="11:00 Nations League : China vs Serbia - 12/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/507/original/circle-flag-of-china-free-png.png" group-title="Pallavolo", SporTV2 Brazil
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", Arena Premium 2 Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", Sportklub 1 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", SporTV2 Brazil
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Poland vs Japan" tvg-name="14:30 Nations League : Poland vs Japan - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Poland_vs_Japan.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", SporTV2 Brazil
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", MAX Sport 1 Bulgaria
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs Cuba" tvg-name="22:30 Nations League : Brazil vs Cuba - 12/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sport Klub HD Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Italy" tvg-name="22:30 Nations League : Germany vs Italy - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Germany_vs_Italy.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Italy" tvg-name="22:30 Nations League : Germany vs Italy - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Germany_vs_Italy.png" group-title="Pallavolo", Arena 3 Premium Serbia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Italy" tvg-name="22:30 Nations League : Germany vs Italy - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Germany_vs_Italy.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Italy" tvg-name="22:30 Nations League : Germany vs Italy - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Germany_vs_Italy.png" group-title="Pallavolo", Sport Klub 3 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - USA vs Iran" tvg-name="02:00 Nations League : USA vs Iran - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Iran.png" group-title="Pallavolo", Polsat Sport 1 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - USA vs Iran" tvg-name="02:00 Nations League : USA vs Iran - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Iran.png" group-title="Pallavolo", SporTV2 Brazil
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - USA vs Iran" tvg-name="02:00 Nations League : USA vs Iran - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Iran.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - USA vs Iran" tvg-name="02:00 Nations League : USA vs Iran - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Iran.png" group-title="Pallavolo", Sport Klub HD Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Canada" tvg-name="02:00 Nations League : Argentina vs Canada - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Argentina_vs_Canada.png" group-title="Pallavolo", Polsat Sport 2 Poland
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Canada" tvg-name="02:00 Nations League : Argentina vs Canada - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Argentina_vs_Canada.png" group-title="Pallavolo", TVA Sports 2
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-834.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Canada" tvg-name="02:00 Nations League : Argentina vs Canada - 12/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Argentina_vs_Canada.png" group-title="Pallavolo", Sport Klub 3 Croatia
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz - World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz" tvg-name="19:00 World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi", EuroSport 2 Italy
+https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
