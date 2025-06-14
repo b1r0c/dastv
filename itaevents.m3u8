@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Cavalry" tvg-name="21:00 Canadian Premier League : HFX Wanderers vs Cavalry - 14/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/HFX_Wanderers_FC_logo.svg/640px-HFX_Wanderers_FC_logo.svg.png" group-title="Calcio", Fox Soccer Plus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Ottawa Rapid vs Montreal Roses" tvg-name="21:00 Canadian Premier League : Ottawa Rapid vs Montreal Roses - 14/06/25" tvg-logo="https://am-prod-client-files.ppub-tmaws.io/rapidfc/s3fs-public/6672818566ce328cf41df_0.png?VersionId=M5NLF3jI.s53YerPzLa5tr8YYdF0m93Q" group-title="Calcio", TSN2
+#EXTINF:-1 tvg-id="Canadian Premier League - Ottawa Rapid vs Montreal Roses" tvg-name="21:00 Canadian Premier League : Ottawa Rapid vs Montreal Roses - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Ottawa%20Rapid_vs_Montreal%20Roses.png" group-title="Calcio", TSN2
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
@@ -11,7 +11,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs York United" tvg-name="00:00 Canadian Premier League : Pacific vs York United - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Pacific_vs_York%20United.png" group-title="Calcio", Fox Soccer Plus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ahly vs Inter Miami" tvg-name="02:00 FIFA Club World Cup : Al Ahly vs Inter Miami - 14/06/25" tvg-logo="http://www.thematv.com/medias/channels/al-ahly/al-ahly.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ahly vs Inter Miami" tvg-name="02:00 FIFA Club World Cup : Al Ahly vs Inter Miami - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Al%20Ahly_vs_Inter%20Miami.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://insightnewsgh.com/wp-content/uploads/2024/08/Gabriel-Diallo_2023-08-06-162139_irqd.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
@@ -464,10 +464,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", CBS USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", CBSNY USA
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://clipartcraft.com/images/wnba-logo-svg-6.png" group-title="Basket", CBSNY USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-767.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://clipartcraft.com/images/wnba-logo-small-6.png" group-title="Basket", Cosmote Sport 5 Greece
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://b.fssta.com/uploads/application/wnba/team-logos/Lynx.vresize.350.350.medium.0.png" group-title="Basket", Cosmote Sport 5 Greece
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", TV4 Sportkanalen
@@ -599,10 +599,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", RTVS Sport Slovakia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - USA vs. Slovenia" tvg-name="18:30 Nations League : USA vs. Slovenia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Slovenia.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -653,10 +653,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Golden League W - Spain W vs Greece W" tvg-name="17:00 Golden League W : Spain W vs Greece W - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Spain%20W_vs_Greece%20W.png" group-title="Pallavolo", Arena Sport 3 Croatia (CH-434) Sportklub 3 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League W - Slovakia W vs Sweden W" tvg-name="18:00 Golden League W : Slovakia W vs Sweden W - 14/06/25" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131401.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="Golden League W - Slovakia W vs Sweden W" tvg-name="18:00 Golden League W : Slovakia W vs Sweden W - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Slovakia%20W_vs_Sweden%20W.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League W - Slovakia W vs Sweden W" tvg-name="18:00 Golden League W : Slovakia W vs Sweden W - 14/06/25" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/131401.png" group-title="Pallavolo", SVT 2 Sweden
+#EXTINF:-1 tvg-id="Golden League W - Slovakia W vs Sweden W" tvg-name="18:00 Golden League W : Slovakia W vs Sweden W - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Slovakia%20W_vs_Sweden%20W.png" group-title="Pallavolo", SVT 2 Sweden
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League W - Portugal W vs Montenegro W" tvg-name="18:00 Golden League W : Portugal W vs Montenegro W - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Portugal%20W_vs_Montenegro%20W.png" group-title="Pallavolo", Arena Sport 6 Serbia

@@ -2,13 +2,13 @@
 #EXTINF:-1,Rai (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1,RAI 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Rai 2 Italy
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true
 #EXTINF:-1,RAI 3 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI 4 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI 4K (V)
@@ -20,11 +20,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/190
 #EXTINF:-1,RAI ITALIA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI MOVIE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI NEWS 24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI PREMIUM (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI SCUOLA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI SPORT (V)
@@ -40,7 +40,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/189
 #EXTINF:-1,20 MEDIASET (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,CANALE 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,CINE 34 MEDIASET (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,ITALIA 1 (V)
@@ -70,7 +70,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/223
 #EXTINF:-1,CRIME+ INVESTIGATION (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3005227700/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DISCOVERY CHANNEL (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1955739367/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DISCOVERY FOCUS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2113273064/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DISCOVERY K2 (V)
@@ -78,7 +78,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/303
 #EXTINF:-1,DISCOVERY NOVE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DMAX (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,FOOD NETWORK (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2820683351/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,HGTV (V)
@@ -86,7 +86,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/289
 #EXTINF:-1,REAL TIME (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,TOP CRIME (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Sky 258 (CT1)
 https://calcionew.newkso.ru/calcio/calcioX1sky258/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru
 #EXTINF:-1,Sky 259 (CT1)
@@ -94,7 +94,7 @@ https://calcionew.newkso.ru/calcio/calcioX1sky259/mono.m3u8&h_user-agent=Mozilla
 #EXTINF:-1,SKY ARTE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY ATLANTIC (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Sky Crime (MPD)
 https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd&key_id=0036de91177ccee5fdfd4929c099854f&key=f40263272212aacdcf7e405cfb4b4a91
 #EXTINF:-1,SKY DOCUMENTARIES (V)
@@ -104,7 +104,7 @@ https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear315-it-dash1-
 #EXTINF:-1,SKY NATURE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 10 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 12 (V)
@@ -122,11 +122,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/347
 #EXTINF:-1,SKY PRIMAFILA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 3 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 4 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 6 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 7 (V)
@@ -144,7 +144,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/337
 #EXTINF:-1,SKY UNO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA ACTION (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA COLLECTION (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA COMEDY (V)
@@ -160,7 +160,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415
 #EXTINF:-1,SKY CINEMA ROMANCE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA SUSPENSE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA UNO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA UNO +24 (V)
@@ -348,7 +348,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1,Canal+ Sport France
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-122.php&redirect_stream=true
 #EXTINF:-1,CARTOON NETWORK (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,CARTOONITO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Catanzaro (CT1)
@@ -414,7 +414,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1,EuroSport 1 Italy
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
 #EXTINF:-1,EUROSPORT 2 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,EuroSport 2 Italy
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 #EXTINF:-1,Finlandia vs Polonia (SZ)
@@ -432,7 +432,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1,FRISBEE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1995860185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,GIALLO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2373936189/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4060499455/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,HISTORY (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,History Channel (MPD)
@@ -490,7 +490,7 @@ https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear315-it-dash1-
 #EXTINF:-1,NAT GEO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/179844839/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,NAT GEO WILD (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3428501495/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3229664409/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,NBA (SpS)
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/9.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 #EXTINF:-1,nbahd (Hd)
@@ -604,7 +604,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1,Sportsnet 360 CA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-409.php&redirect_stream=true
 #EXTINF:-1,SUPER TENNIS (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SUPER! (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2900362153/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SuperSport Premier League
