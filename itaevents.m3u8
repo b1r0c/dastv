@@ -5,7 +5,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Canadian Premier League - Ottawa Rapid vs Montreal Roses" tvg-name="21:00 Canadian Premier League : Ottawa Rapid vs Montreal Roses - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Ottawa%20Rapid_vs_Montreal%20Roses.png" group-title="Calcio", TSN2
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/CRB_vs_Goi%C3%A1s.png" group-title="Calcio", ESPN Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs York United" tvg-name="00:00 Canadian Premier League : Pacific vs York United - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Pacific_vs_York%20United.png" group-title="Calcio", Fox Soccer Plus
@@ -458,7 +458,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="LKL - Lithuanian East vs Zalgiris Kaunas" tvg-name="15:50 LKL : Lithuanian East vs Zalgiris Kaunas - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Lithuanian%20East_vs_Zalgiris%20Kaunas.png" group-title="Basket", Sportklub 4 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Minnesota%20Lynx_vs_Los%20Angeles%20Sparks.png" group-title="Basket", TNT Sports 2 UK
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-32.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Minnesota%20Lynx_vs_Los%20Angeles%20Sparks.png" group-title="Basket", CBS USA
@@ -596,13 +596,13 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", RTVS Sport Slovakia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://i.pinimg.com/originals/e1/f4/e1/e1f4e195861f9998c85cd2194d10cd11.png" group-title="Pallavolo", RTVS Sport Slovakia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - USA vs. Slovenia" tvg-name="18:30 Nations League : USA vs. Slovenia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/USA_vs_Slovenia.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -683,19 +683,19 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Tanzania Premier League - Young Africans vs Simba" tvg-name="16:00 Tanzania Premier League : Young Africans vs Simba - 15/06/25" tvg-logo="https://secure.cache.images.core.optasports.com/soccer/teams/150x150/6624.png" group-title="Calcio", Azam Sports HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://logodetimes.com/times/bayern-munchen/bayern-munchen-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern München vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Bayern München vs Auckland City - 15/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Italian Serie B Soccer - Sampdoria vs. Salernitana" tvg-name="20:30 Italian Serie B Soccer: Sampdoria vs. Salernitana - 15/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/sampdoria-logo-0.png" group-title="Calcio", Fox Soccer Plus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Novorizontino vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Novorizontino vs Cuiabá - 15/06/25" tvg-logo="https://logodetimes.com/times/gremio-novorizontino/logo-gremio-novorizontino-1536.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Novorizontino vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Novorizontino vs Cuiabá - 15/06/25" tvg-logo="https://logodetimes.com/times/gremio-novorizontino/logo-gremio-novorizontino-4096.png" group-title="Calcio", ESPN Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://clipart.info/images/ccovers/1518802542PSG-Png-Paris-Saint-Germain-Logo.png" group-title="Calcio", TF1 France
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-469.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Atlético Madrid" tvg-name="21:00 FIFA Club World Cup : PSG vs Atlético Madrid - 15/06/25" tvg-logo="https://clipart.info/images/ccovers/1518802542PSG-Png-Paris-Saint-Germain-Logo.png" group-title="Calcio", SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Vancouver FC vs Forge" tvg-name="22:00 Canadian Premier League : Vancouver FC vs Forge - 15/06/25" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Vancouver_FC_logo.png/220px-Vancouver_FC_logo.png" group-title="Calcio", Fox Sports 2 USA
@@ -1001,7 +1001,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Canal+ Sport Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://files.tips.gg/static/image/teams/unicaja-malaga-basketball.png" group-title="Basket", Sportdigital+ DE
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Cosmote Sport 4 Greece
@@ -1010,22 +1010,22 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Arena Premium 2 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://files.tips.gg/static/image/teams/unicaja-malaga-basketball.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://seeklogo.com/images/M/malaga-logo-EF8700C235-seeklogo.com.png" group-title="Basket", Sportklub 2 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://files.tips.gg/static/image/teams/unicaja-malaga-basketball.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-466.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://seeklogo.com/images/M/malaga-logo-EF8700C235-seeklogo.com.png" group-title="Basket", Sport 2 Israel
+#EXTINF:-1 tvg-id="ACB - Unicaja Malaga vs. Real Madrid" tvg-name="17:00 ACB : Unicaja Malaga vs. Real Madrid - 15/06/25" tvg-logo="https://images.seeklogo.com/logo-png/52/2/unicaja-logo-png_seeklogo-520627.png?v=638430926230000000" group-title="Basket", Sport 2 Israel
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-141.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://logodetimes.com/times/bayern-munchen/bayern-munchen-4096.png" group-title="Basket", DYN DE
+#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", DYN DE
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://logodetimes.com/times/bayern-munchen/bayern-munchen-4096.png" group-title="Basket", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="Germany BBL - Bayern München vs Ratiopharm Ulm" tvg-name="18:00 Germany BBL : Bayern München vs Ratiopharm Ulm - 15/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", Arena Sport 1 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Chicago Sky W" tvg-name="18:00 WNBA : Connecticut Sun W vs Chicago Sky W - 15/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Connecticut%20Sun%20W_vs_Chicago%20Sky%20W.png" group-title="Basket", CBSNY USA
@@ -1034,19 +1034,19 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Basketball - Tbc - Game 3" tvg-name="19:00 Basketball: Tbc - Game 3 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="https://static.timesofisrael.com/www/uploads/2012/05/Logo_maccabi-1.png" group-title="Basket", 5 Sport Israel
+#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="http://cdn.shopify.com/s/files/1/0607/1277/9914/collections/thumb2-maccabi-tel-aviv-fc-4k-israeli-premier-league-yellow-and-blue-checkered-flag-israeli-football-club.png?v=1669928586" group-title="Basket", 5 Sport Israel
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="https://static.timesofisrael.com/www/uploads/2012/05/Logo_maccabi-1.png" group-title="Basket", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="Israeli League - Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem" tvg-name="19:50 Israeli League: Playoffs - FINALE (G3): Maccabi vs Hapoel Jerusalem - 15/06/25" tvg-logo="http://cdn.shopify.com/s/files/1/0607/1277/9914/collections/thumb2-maccabi-tel-aviv-fc-4k-israeli-premier-league-yellow-and-blue-checkered-flag-israeli-football-club.png?v=1669928586" group-title="Basket", Sportklub 2 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="CEBL Basketball - Niagara River Lions vs Ottawa BlackJacks" tvg-name="20:00 CEBL Basketball : Niagara River Lions vs Ottawa BlackJacks - 15/06/25" tvg-logo="https://d2j6dbq0eux0bg.cloudfront.net/images/14668292/3552394025.png" group-title="Basket", TSN2
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/washington-mystics-logo.png" group-title="Basket", Monumental Sports Network
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/washington-mystics-logo-png-transparent.png" group-title="Basket", Monumental Sports Network
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/washington-mystics-logo.png" group-title="Basket", CBS Sports Network USA
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="20:00 WNBA : Washington Mystics W vs Atlanta Dream W - 15/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/washington-mystics-logo-png-transparent.png" group-title="Basket", CBS Sports Network USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="KLS - Partizan Mozzart bet vs FMP Soccerbet, G1" tvg-name="20:30 KLS : Partizan Mozzart bet vs FMP Soccerbet, G1 - 15/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Partizan%20Mozzart%20bet_vs_FMP%20Soccerbet%2C%20G1.png" group-title="Basket", Arena Premium 1 Serbia
@@ -1181,7 +1181,7 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1 tvg-id="Nations League - Argentina vs. Italy" tvg-name="17:00 Nations League : Argentina vs. Italy - 15/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Argentina_vs_Italy.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Iran" tvg-name="18:30 Nations League : Ukraine vs. Iran - 15/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Iran" tvg-name="18:30 Nations League : Ukraine vs. Iran - 15/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Ukraine_vs_Iran.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs. Iran" tvg-name="18:30 Nations League : Ukraine vs. Iran - 15/06/25" tvg-logo="https://raw.githubusercontent.com/dastv/b1r0c/main/logos/Ukraine_vs_Iran.png" group-title="Pallavolo", Sport Klub 4 Croatia
