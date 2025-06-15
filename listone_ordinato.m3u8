@@ -5,8 +5,6 @@ https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netpl
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,Rai 2 Italy
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true
 #EXTINF:-1,RAI 3 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI 4 (V)
@@ -20,9 +18,9 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/190
 #EXTINF:-1,RAI ITALIA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI MOVIE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI NEWS 24 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI PREMIUM (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RAI SCUOLA (V)
@@ -68,7 +66,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/198
 #EXTINF:-1,MEDIASET ITALIA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RETE 4 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,CRIME+ INVESTIGATION (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3005227700/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DISCOVERY CHANNEL (V)
@@ -78,7 +76,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/211
 #EXTINF:-1,DISCOVERY K2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3037871903/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DISCOVERY NOVE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DMAX (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,FOOD NETWORK (V)
@@ -86,7 +84,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/276
 #EXTINF:-1,HGTV (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,REAL TIME (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,TOP CRIME (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Sky 258 (CT1)
@@ -106,7 +104,7 @@ https://mfp.formeweb.cloud/proxy/mpd/manifest.m3u8?d=https://linear315-it-dash1-
 #EXTINF:-1,SKY NATURE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 10 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 12 (V)
@@ -124,9 +122,9 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/347
 #EXTINF:-1,SKY PRIMAFILA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 3 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 4 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 5 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY PRIMAFILA 6 (V)
@@ -154,11 +152,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/500
 #EXTINF:-1,SKY CINEMA DRAMA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA DUE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA DUE +24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1078650168/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA FAMILY (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA ROMANCE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY CINEMA SUSPENSE (V)
@@ -171,8 +169,6 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/169
 https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1,SKY SPORT (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,Sky Sport 1 NZ
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true
 #EXTINF:-1,SKY SPORT 24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
@@ -244,7 +240,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210
 #EXTINF:-1,Sky Sport Top Event DE
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true
 #EXTINF:-1,SKY SPORT UNO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Sky Sport vs NBA (SZ)
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1,SKY SPORTS F1 (V)
@@ -279,8 +275,6 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/274
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,DAZN 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,DAZN Eleven 1 Portugal
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 #EXTINF:-1,DAZN Eleven 3 Portugal
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 #EXTINF:-1,DAZN F1 ES
@@ -307,24 +301,18 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 https://hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1,Arena 1 Premium Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-#EXTINF:-1,Arena 2 Premium Serbia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 #EXTINF:-1,Arena 3 Premium Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 #EXTINF:-1,Arena Premium 1 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 #EXTINF:-1,Arena Premium 2 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
-#EXTINF:-1,Arena Sport 1 Croatia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true
 #EXTINF:-1,Arena Sport 1 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 #EXTINF:-1,Arena Sport 2 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true
 #EXTINF:-1,Arena Sport 2 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
-#EXTINF:-1,Arena Sport 3 Croatia (CH-434) Sportklub 3 Croatia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 #EXTINF:-1,Arena Sport 6 Serbia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-941.php&redirect_stream=true
 #EXTINF:-1,Argentina vs Colombia (SZ)
@@ -335,8 +323,6 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 https://hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1,Band Tv Brasil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-30.php&redirect_stream=true
-#EXTINF:-1,Bandsports Brasil
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-275.php&redirect_stream=true
 #EXTINF:-1,Bari (CT1)
 https://calcionew.newkso.ru/calcio/Bari/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru
 #EXTINF:-1,beIN Sports 1 Malaysia
@@ -372,17 +358,15 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 #EXTINF:-1,Canal+ Sport Poland
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true
 #EXTINF:-1,CARTOON NETWORK (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,CARTOONITO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1907000512/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1,CARTOONITO (BACKUP) (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Catanzaro (CT1)
 https://calcionew.newkso.ru/calcio/catan/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru
 #EXTINF:-1,CATFISH (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2381583828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,CBS Sports Network USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true
-#EXTINF:-1,CBS USA
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true
 #EXTINF:-1,CBSNY USA
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-767.php&redirect_stream=true
 #EXTINF:-1,Cesena (CT1)
@@ -392,23 +376,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374
 #EXTINF:-1,CINE 34 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,COMEDY CENTRAL (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3658277450/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Cosmote Sport 4 Greece
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true
-#EXTINF:-1,Cosmote Sport 5 Greece
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true
-#EXTINF:-1,Cosmote Sport 5 HD
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true
-#EXTINF:-1,Cosmote Sport 7 Greece
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 #EXTINF:-1,Cosmote Sport 7 HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
-#EXTINF:-1,Cosmote Sport 8 Greece
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-629.php&redirect_stream=true
-#EXTINF:-1,CW PIX 11 USA
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-280.php&redirect_stream=true
-#EXTINF:-1,CW USA
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-300.php&redirect_stream=true
 #EXTINF:-1,Cytavision Sports 5 Cyprus
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true
 #EXTINF:-1,Cytavision Sports 6 Cyprus
@@ -431,20 +403,10 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true
 #EXTINF:-1,ESPN2 Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
-#EXTINF:-1,ESPN2 USA
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true
-#EXTINF:-1,ESPN3 Brazil
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-83.php&redirect_stream=true
-#EXTINF:-1,ESPN4 Brazil
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true
 #EXTINF:-1,EUROSPORT 1 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,Eurosport 1 IT
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
-#EXTINF:-1,EuroSport 1 Italy
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
 #EXTINF:-1,EUROSPORT 2 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,EuroSport 2 France
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true
 #EXTINF:-1,EuroSport 2 Greece
@@ -493,10 +455,6 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/576
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,Italia U21 vs Romania U21 (SZ)
 https://hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1,JOJ Sport Slovakia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true
-#EXTINF:-1,JOJ Sport Slovakia 2
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.php&redirect_stream=true
 #EXTINF:-1,JOJ Sport Slovakia HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true
 #EXTINF:-1,Juventus (CT1)
@@ -504,7 +462,7 @@ https://calcionew.newkso.ru/calcio/juve/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28
 #EXTINF:-1,K2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,LA 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,LA 7 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,LA 7 D (V)
@@ -591,8 +549,6 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/860
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,RSI LA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,RTVS Sport Slovakia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 #EXTINF:-1,Salernitana (CT1)
 https://calcionew.newkso.ru/calcio/saler/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru
 #EXTINF:-1,Sampdoria (CT1)
@@ -621,8 +577,6 @@ https://xuione.sportstreaming.net/SportStreaming/SportStreaming/2.m3u8&h_user-ag
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
 #EXTINF:-1,Sport 5 Live Israel
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true
-#EXTINF:-1,Sport 5 Stars Israel
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true
 #EXTINF:-1,SPORT ITALIA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
@@ -639,8 +593,6 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true
 #EXTINF:-1,Sport TV2 Portugal HD
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true
-#EXTINF:-1,Sport TV6 Portugal
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-291.php&redirect_stream=true
 #EXTINF:-1,Sportdigital+ DE
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 #EXTINF:-1,Sportitalia (CT1)
@@ -649,16 +601,10 @@ https://calcionew.newkso.ru/calcio/calcioX2sportitalia/mono.m3u8&h_user-agent=Mo
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3342849313/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SPORTITALIA SOLOCALCIO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2198410339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,Sportklub 1 Croatia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 #EXTINF:-1,Sportklub 2 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 #EXTINF:-1,Sportklub 3 Croatia
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
-#EXTINF:-1,Sportklub 4 Croatia
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
-#EXTINF:-1,Sportsnet 360 CA
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-409.php&redirect_stream=true
 #EXTINF:-1,SporTV2 Brazil
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 #EXTINF:-1,SUPER TENNIS (V)
@@ -667,14 +613,10 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/300
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2900362153/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,SuperSport Premier League
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
-#EXTINF:-1,SVT 2 Sweden
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true
 #EXTINF:-1,Tennis (SpS)
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 #EXTINF:-1,TENNIS CHANNEL (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2716316208/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,Tennis Stream
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 #EXTINF:-1,Tennis Stream 1
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 #EXTINF:-1,Tennis Stream 3
@@ -693,30 +635,20 @@ https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/em
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 #EXTINF:-1,TGCOM 24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2418148449/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,TNT Sports 2 UK
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-32.php&redirect_stream=true
 #EXTINF:-1,TNT Sports 3 UK
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-33.php&redirect_stream=true
-#EXTINF:-1,TNT Sports 7 UK
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true
 #EXTINF:-1,TSN (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da
 #EXTINF:-1,TSN1
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true
 #EXTINF:-1,TSN2
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
-#EXTINF:-1,TSN3
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true
 #EXTINF:-1,TSN5
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true
 #EXTINF:-1,TV 8 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-#EXTINF:-1,TV3 Sport Denmark
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-809.php&redirect_stream=true
 #EXTINF:-1,TV3+ Denmark
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-819.php&redirect_stream=true
-#EXTINF:-1,TV4 Sportkanalen
-https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-707.php&redirect_stream=true
 #EXTINF:-1,TV4 Tennis
 https://mfpale.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true
 #EXTINF:-1,Uruguay vs Venezuela (SZ)
